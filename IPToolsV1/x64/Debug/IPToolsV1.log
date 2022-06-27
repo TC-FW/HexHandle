@@ -1,0 +1,2 @@
+﻿configFileHandle.obj : error LNK2019: 无法解析的外部符号 __imp_xlCreateBookW，该符号在函数 "public: __cdecl ConfigHandle::ConfigHandle(void)" (??0ConfigHandle@@QEAA@XZ) 中被引用
+C:\Users\OMEN\OneDrive\IPToolsV1\x64\Debug\IPToolsV1.exe : fatal error LNK1120: 1 个无法解析的外部命令
